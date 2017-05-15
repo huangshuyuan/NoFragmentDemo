@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NoFragmentDemo</string>
+    <string name="title_fragment_main">首页</string>
+    <string name="title_fragment_first">第一个页面</string>
+    <string name="title_fragment_second">溢出菜单页面</string>
+    <string name="title_fragment_three">发送数据</string>
+    <string name="title_fragment_three_info">回传数据</string>
+    <string name="setting">设置</string>
+    <string name="exit">退出</string>
+    <string name="action_add_friend">添加</string>
+    <string name="action_mood">心情</string>
+    <string name="action_satisfied">开心</string>
+    <string name="action_dissatisfied">难过</string>
+    <string name="action_neutral">一般</string>
+</resources>
