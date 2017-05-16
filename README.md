@@ -10,8 +10,9 @@ Activity + 多个Fragment的形式
 代码开源在Github：[https://github.com/yanzhenjie/NoFragment](https://github.com/yanzhenjie/NoFragment)
 
 Demo：https://github.com/huangshuyuan/NoFragmentDemo/tree/master
+我的简书：http://www.jianshu.com/p/0df959c0a7f5
 
-![我的简书](http://upload-images.jianshu.io/upload_images/3805053-fc8561c781d93100.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](http://upload-images.jianshu.io/upload_images/3805053-fc8561c781d93100.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ***
 #  NoFragment 特点
 
