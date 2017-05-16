@@ -23,7 +23,7 @@ public class MainFragment extends BaseFragment {
     /**/
 //    private Toolbar mToolbar;
     private RecyclerView recyclerView;
-    private String[] itemArr = {"启动新的Fragment", "溢出菜单+响应式布局", "回传数据", "不在回退栈"};
+    private String[] itemArr = {"启动新的Fragment", "溢出菜单+响应式布局", "回传数据", "不在回退栈", "折叠式标题栏", "自动播放ViewPager"};
 
     /**
      * 绑定界面
@@ -68,7 +68,6 @@ public class MainFragment extends BaseFragment {
 
         //设置标题
         setTitle(R.string.title_fragment_main);
-
 
 
         // 显示关闭按钮
@@ -120,6 +119,12 @@ public class MainFragment extends BaseFragment {
                         NoFragment fragment2 = fragment(ThreeFragment.class, bundle2);
 
                         startFragment(fragment2, false);
+                        break;
+                    case 4:
+                        startFragment(FiveFragment.class);
+                        break;
+                    case 5:
+                        startFragment(SixFragment.class);
                         break;
                 }
             }

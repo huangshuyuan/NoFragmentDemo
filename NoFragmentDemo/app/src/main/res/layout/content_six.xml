@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:showIn="@layout/fragment_six">
+
+    <com.hsy.fragment.nofragmentdemo.view.AutoPlayViewPager
+        android:id="@+id/autoviewPager"
+        android:layout_width="match_parent"
+        android:layout_height="200dp">
+
+    </com.hsy.fragment.nofragmentdemo.view.AutoPlayViewPager>
+
+    <Button
+        android:id="@+id/btn_scroll_change_left"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="改变方向：向左滚动(默认)" />
+
+    <Button
+        android:id="@+id/btn_scroll_change_right"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="改变方向：向右滚动" />
+
+    <Button
+        android:id="@+id/btn_scroll_next"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="下一个" />
+
+    <Button
+        android:id="@+id/btn_scroll_previous"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="上一个" />
+
+
+</LinearLayout>
