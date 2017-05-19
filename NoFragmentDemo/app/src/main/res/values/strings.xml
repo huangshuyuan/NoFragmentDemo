@@ -6,6 +6,7 @@
     <string name="title_fragment_five">折叠式标题栏</string>
     <string name="title_fragment_three">发送数据</string>
     <string name="title_fragment_three_info">回传数据</string>
+    <string name="title_fragment_seven">滑动标题</string>
     <string name="setting">设置</string>
     <string name="exit">退出</string>
     <string name="action_add_friend">添加</string>

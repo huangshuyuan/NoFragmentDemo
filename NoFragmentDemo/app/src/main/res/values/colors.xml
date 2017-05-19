@@ -2,8 +2,9 @@
 <resources>
     <color name="colorPrimary">#3ec9b6</color>
     <color name="colorPrimaryDark">@color/colorPrimary</color>
-    <color name="colorAccent">#FF4081</color>
+    <color name="colorAccent">@color/colorPrimary</color>
     <color name="transparent">@android:color/transparent</color>
     <color name="white">#ffffffff</color>
     <color name="black">#ff000000</color>
+    <color name="line">#474545</color>
 </resources>
