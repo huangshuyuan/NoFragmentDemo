@@ -16,10 +16,11 @@ Demo：https://github.com/huangshuyuan/NoFragmentDemo/tree/master
 
 ![](http://upload-images.jianshu.io/upload_images/3805053-fc8561c781d93100.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-![tablelayout ](http://upload-images.jianshu.io/upload_images/3805053-e0a133c647439b88.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
+![1 ](http://upload-images.jianshu.io/upload_images/3805053-e0a133c647439b88.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ![ 2](http://upload-images.jianshu.io/upload_images/3805053-6fb4a288dda931c0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
 ***
 #  NoFragment 特点
 
