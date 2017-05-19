@@ -5,6 +5,7 @@ Activity + 多个Fragment的形式
 * NoFragment的使用
 * Design-CollapsingToobarLayout、ToolBar使用（沉浸式标题栏）5.0+
 * 自动滚动的ViewPager的使用（自定义、沉浸式样式）5.0+
+* TableLayout使用
 
 ***
 代码开源在Github：[https://github.com/yanzhenjie/NoFragment](https://github.com/yanzhenjie/NoFragment)
@@ -14,6 +15,9 @@ Demo：https://github.com/huangshuyuan/NoFragmentDemo/tree/master
 我的简书：http://www.jianshu.com/p/0df959c0a7f5
 
 ![](http://upload-images.jianshu.io/upload_images/3805053-fc8561c781d93100.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![tablelayout ](http://upload-images.jianshu.io/upload_images/3805053-e0a133c647439b88.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![ 2](http://upload-images.jianshu.io/upload_images/3805053-6fb4a288dda931c0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ***
 #  NoFragment 特点
 
