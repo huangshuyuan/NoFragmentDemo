@@ -24,9 +24,10 @@ public class MainFragment extends BaseFragment {
 //    private Toolbar mToolbar;
     private RecyclerView recyclerView;
     private String[] itemArr = {"启动新的Fragment", "溢出菜单+响应式布局", "回传数据",
-            "不在回退栈", "折叠式标题栏", "自动播放ViewPager", "TableLayout使用"};
+            "不在回退栈", "折叠式标题栏", "自动播放ViewPager", "滑动菜单TableLayout", "抽屉侧边栏DrawerLayout"};
 
     /**
+     * 3
      * 绑定界面
      *
      * @param inflater
@@ -129,6 +130,9 @@ public class MainFragment extends BaseFragment {
                         break;
                     case 6:
                         startFragment(SevenFragment.class);
+                        break;
+                    case 7:
+                        startFragment(EightFragment.class);
                         break;
                 }
             }

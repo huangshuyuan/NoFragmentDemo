@@ -7,4 +7,5 @@
     <color name="white">#ffffffff</color>
     <color name="black">#ff000000</color>
     <color name="line">#474545</color>
+    <color name="windowBackground">#ffffff</color>
 </resources>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:checked="true"
+            android:id="@+id/navigation_item_home"
+            android:icon="@drawable/iconfont_home"
+            android:title="首页" />
+        <item
+            android:id="@+id/navigation_item_ganhuo"
+
+            android:icon="@drawable/iconfont_source"
+            android:title="干货" />
+        <item
+            android:id="@+id/navigation_item_blog"
+            android:icon="@drawable/iconfont_blog"
+            android:title="我的博客" />
+        <item
+            android:id="@+id/navigation_item_custom_view"
+            android:icon="@drawable/iconfont_custom_view"
+            android:title="自定义View" />
+        <item
+            android:id="@+id/navigation_item_snackbar"
+            android:icon="@drawable/iconfont_custom_view"
+            android:title="Snackbar演示" />
+
+        <item android:title="其他">
+            <menu>
+                <item
+                    android:id="@+id/navigation_item_switch_theme"
+                    android:checkable="true"
+                    android:icon="@drawable/iconfont_skin"
+                    android:title="主题换肤" />
+
+                <item
+                    android:id="@+id/navigation_item_about"
+                    android:checkable="true"
+                    android:icon="@drawable/iconfont_about"
+                    android:title="关于" />
+            </menu>
+        </item>
+    </group>
+
+</menu>

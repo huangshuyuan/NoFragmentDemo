@@ -7,6 +7,7 @@
     <string name="title_fragment_three">发送数据</string>
     <string name="title_fragment_three_info">回传数据</string>
     <string name="title_fragment_seven">滑动标题</string>
+    <string name="title_fragment_eghit">抽屉侧边栏</string>
     <string name="setting">设置</string>
     <string name="exit">退出</string>
     <string name="action_add_friend">添加</string>
@@ -14,4 +15,6 @@
     <string name="action_satisfied">开心</string>
     <string name="action_dissatisfied">难过</string>
     <string name="action_neutral">一般</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
 </resources>
